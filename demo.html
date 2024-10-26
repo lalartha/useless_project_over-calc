@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pop-Out Calculator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="calculator">
+        <input type="text" id="display" disabled>
+        <div class="buttons">
+            <button onclick="appendValue('7')"><img src="7-removebg-preview.png" alt=""  height="150px" , width="150px"></button>
+            <button onclick="appendValue('8')"><img src="8-removebg-preview.png" alt=""  height="150px" , width="150px"></button>
+            <button onclick="appendValue('9')"><img src="9-removebg-preview.png" alt=""  height="150px" , width="150px"></button>
+            <button onclick="appendValue('+')"><img src="+-removebg-preview.png" alt=""  height="150px" , width="150px"></button>
+            <button onclick="appendValue('4')"><img src="4-removebg-preview.png" alt=""  height="150px" , width="150px"></button>
+            <button onclick="appendValue('5')"><img src="5-removebg-preview.png" alt=""  height="150px" , width="150px"></button>
+            <button onclick="appendValue('6')"><img src="6-removebg-preview.png" alt=""  height="150px" , width="150px"></button>
+            <button onclick="appendValue('-')"><img src="minus.png" alt=""  height="150px" , width="150px"></button>
+            <button onclick="appendValue('1')"><img src="1.png" alt="" height="150px", width="150px"></button>
+            <button onclick="appendValue('2')"><img src="2-removebg-preview (1).png" alt="" height="150px" , width="150px"></button>
+            <button onclick="appendValue('3')"><img src="3-removebg-preview.png" alt=""  height="150px" , width="150px"></button>
+            <button onclick="appendValue('*')"><img src="x-removebg-preview.png" alt=""  height="150px" , width="150px"></button>
+            <button onclick="clearDisplay()"><img src="c-removebg-preview.png" alt=""  height="150px" , width="150px"></button>
+            <button onclick="appendValue('0')"><img src="zero-removebg-preview.png" alt=""  height="150px" , width="150px"></button>
+            <button onclick="calculate()"><img src="equal-removebg-preview.png" alt=""  height="150px" , width="150px"></button>
+            <button onclick="appendValue('/')"><img src="div2.png" alt=""  height="150px" , width="150px"></button>
+        </div>
+    </div>
+    <div id="popOut" class="pop-out hidden"></div>
+
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.5.1/dist/confetti.min.js"></script>
+    <script   src="script.js"></script>
+</body>
+</html>
