@@ -1,33 +1,33 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# [Overly Complicated Calculator] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Antiquitiezz]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Arthalal c] - [College]
+- Member 2: [Aswathy viswam] - [College]
+- Member 3: [Abhijith s b] - [College]
 
 ### Project Description
-[2-3 lines about what your project does]
+[our project is an overly complicated calculator.It is a device overloaded with excessive functions, settings, and displays, often requiring a manual just to complete basic tasks. Despite its high-tech design, it tends to hinder rather than help, making simple calculations feel like advanced engineering]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[we are solving the simple maths calculation by making it a more humerous and time consuming way just for entertainment]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[we are asking to solve a basic arthematic operation inorder to enter a number that the user need to be calculated]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
+- [html,css,javascript]
+- [none]
 - [Libraries used]
-- [Tools used]
+- [Git]
 
 For Hardware:
 - [List main components]
@@ -46,13 +46,13 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![Screenshot1]([Add screenshot 1 here with proper name](https://media.discordapp.net/attachments/1139938058670723254/1299573338259066951/Screenshot_2024-10-26_084815.png?ex=671db17c&is=671c5ffc&hm=957b40ff498290b431ac20a45937d7dbaabf072ba370e9b70abbcc7c1b1b933a&=&format=webp&quality=lossless&width=1527&height=859))
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+![Screenshot2](https://media.discordapp.net/attachments/1139938058670723254/1299573339102249034/Screenshot_2024-10-26_084832.png?ex=671db17c&is=671c5ffc&hm=9d3e7e6ee972150d6b113983b5b1f90fb600ea9da5159f394d82df87f7eac5ad&=&format=webp&quality=lossless&width=1527&height=859)
 *Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
+![Screenshot3](https://media.discordapp.net/attachments/1139938058670723254/1299573339685388319/Screenshot_2024-10-26_084853.png?ex=671db17d&is=671c5ffd&hm=1cee62a613a35051d6a3655008e52941406ff7ca601691cffe858b3349eccdb9&=&format=webp&quality=lossless&width=1527&height=859)
 *Add caption explaining what this shows*
 
 # Diagrams
@@ -87,9 +87,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Name 1]: [Designing and html]
+- [Name 2]: [html and css]
+- [Name 3]: [JavaScript]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
